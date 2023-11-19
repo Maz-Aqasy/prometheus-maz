@@ -34,7 +34,6 @@ This repository contains Kubernetes YAML configurations for deploying a monitori
     kubectl get pods -n monitoring
     kubectl logs <pod-name> -n monitoring
     ```
-    ``
 
 ## Note
 
